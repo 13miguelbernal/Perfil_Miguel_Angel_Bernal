@@ -1,33 +1,13 @@
-<p align="center">
-  <img src="E/picture/Foto1.jpg" width="140" height="180" title="Foto">
-</p>
+***<h1 align="center">Objetivo</h1>***
 
-***<h1 align="center">MIGUEL ANGEL BERNAL LAGOS</h1>*** 
+Crear mi propio sitio de github con mi cuenta de github
 
-***INGENIERA DE SISTEMAS***
+1. Crear repositorio que identifique mi sitio único
 
-***IBM Integration BUS | Banco Popular***
+2. Crear rama gh-pages
 
-***PERFIL***
+3. Crear un readme.md
 
-Ingeniero de Sistemas profesional, con experiencia en el desarrollo Web. Capaz de utilizar NUEVAS ALTERNATIVAS con eficiencia y eficacia para adquirir nuevos conocimientos en el campo laboral en diferentes áreas funcionales, asi como excelentes VALORES como honestidad, respeto, tolerancia, responsabilidad, y solidaridad con las personas, destacando en la empatía, autodisciplina, servicio y buena actitud.
+4. Agregar el contenido de mi redme.md de mi hoja de presentación.
 
-***EXPERIENCIA LABORAL***
-
-**DESARROLLO WEB**
-
-2022 | Alcaldía de Fusagasuga
-
-* Apoyar el desarrollo de herramientas que permitan optimizar y automatizar los procesos de la alcaldía municipal mediante el uso de software.
-* Desarrollar y actualizar código fuente para los aplicativos de la oficina TIC.
-* Realizar el levantamiento de requerimientos e historias de usuario para los desarrollos de software de la Alcaldía Municipal.
-
-***FORMACIÓN ACADÉMICA***
-
-**PREGRADO EN INGENIERÍA DE SISTEMAS**
-
-2022 | Universidad de Cundinamarca
-
-**BACHILLER ACADÉMICO**
-
-2015 | IEM Carlos Lozano y Lozano
+***documentación se encuentra en la rama gh-pages***

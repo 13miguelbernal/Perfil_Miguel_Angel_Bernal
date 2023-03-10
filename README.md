@@ -10,4 +10,4 @@ Crear mi propio sitio de github con mi cuenta de github
 
 4. Agregar el contenido de mi redme.md de mi hoja de presentación.
 
-***documentación se encuentra en la rama gh-pages***
+***documentación en la rama gh-pages***
